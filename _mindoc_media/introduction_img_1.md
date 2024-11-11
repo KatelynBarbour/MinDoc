@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/Histoire Naturelle des champignons comestibles et vnneux.jpg
+_path: assets/img/main_page.jpg
 order: '01'
 layout: image_description
 ---
